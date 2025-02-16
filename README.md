@@ -28,7 +28,7 @@
 ## 🚀 Getting Started  
 
 ### 1️⃣ Clone the Repository  
-```sh
+
 git clone https://github.com/DevamKumar25/Gmail_clone.git
 cd Gmail_clone
 
@@ -36,12 +36,12 @@ cd Gmail_clone
 ### 2️⃣ Install Dependencies  
 Run the following command to install all dependencies:  
 
-```sh
+
 npm install  
 
 
 ### 3️⃣ Run the Development Server
-```sh
+
 Copy
 Edit
 npm run dev
