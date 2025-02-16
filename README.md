@@ -54,10 +54,14 @@ Copy
 Edit
 firebase deploy
 
-##📬 Contact
-👤 Devam Kumar
-📧 Email
-🔗 LinkedIn
-🔗 GitHub
+
+
+
+## 📬 Contact  
+👤 **Devam Kumar**  
+📧 **Email**: [devamkumar758@gmail.com.com](mailto:devamkumar758@gmail.com)  
+🔗 **LinkedIn**: [devamkumar2525]([https://www.linkedin.com/in/yourprofile)](https://www.linkedin.com/in/devamkumar2525/)  
+🔗 **GitHub**: [devamkumar25](https://github.com/DevamKumar25)  
+
 
 🌟 If you like this project, give it a star! ⭐
