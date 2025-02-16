@@ -34,8 +34,10 @@ cd Gmail_clone
 
 
 ### 2️⃣ Install Dependencies  
+Run the following command to install all dependencies:  
+
 ```sh
-npm install
+npm install  
 
 
 ### 3️⃣ Run the Development Server
