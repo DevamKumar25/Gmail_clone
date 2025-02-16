@@ -22,24 +22,24 @@
 ![Material UI](https://img.shields.io/badge/Material%20UI-React-blue?style=for-the-badge&logo=mui)  
 ![Vite](https://img.shields.io/badge/Vite-Fast%20Bundler-purple?style=for-the-badge&logo=vite)  
 ![Firebase](https://img.shields.io/badge/Firebase-Hosting-yellow?style=for-the-badge&logo=firebase)  
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-3.0-blue?style=for-the-badge&logo=tailwind-css)  
 
 ---
 
 ## 🚀 Getting Started  
 
-### 1️⃣ Clone the repository  
+### 1️⃣ Clone the Repository  
 ```sh
 git clone https://github.com/DevamKumar25/Gmail_clone.git
 cd Gmail_clone
 
 
-## 2️⃣ Install Dependencies  
+### 2️⃣ Install Dependencies  
 ```sh
 npm install
 
-##3️⃣ Run the Development Server
-sh
+
+### 3️⃣ Run the Development Server
+```sh
 Copy
 Edit
 npm run dev
